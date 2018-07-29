@@ -55,5 +55,7 @@
     sudo reboot
     ```
 
-**Fonte: RPi Linux driver for Wolfson / Cirrus Logic Audio Card**
+
+
+_**Fonte:**_ [_RPi Linux driver for Wolfson / Cirrus Logic Audio Card_](http://www.horus.com/~hias/cirrus-driver.html)\_\_
 
