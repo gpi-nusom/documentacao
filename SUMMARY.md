@@ -1,7 +1,7 @@
 # Table of contents
 
 * [Laboratório de Interações Sonoras do NuSom](README.md)
-* [O LAB NuSom](lab-nusom.md)
+* [Como usar](lab-nusom.md)
 * [Tutoriais](tutoriais/README.md)
   * [Raspberry Pi](tutoriais/raspberry-pi/README.md)
     * [Cirrus Logic Audio Card](tutoriais/raspberry-pi/cirrus-logic-audio-card.md)

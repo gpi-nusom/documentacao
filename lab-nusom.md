@@ -1,4 +1,8 @@
-# O LAB NuSom
+---
+description: Como utilizar a documentação e como contribuir.
+---
 
-Apresentação do laboratório com orientação do Prof. Dr. Julian Jaramillo Arango.
+# Como usar
+
+Descrição dos passos e apresentação breve do conteúdo.
 
