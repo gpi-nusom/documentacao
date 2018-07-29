@@ -13,7 +13,7 @@ description: Tutorial de instalação do Purr Data no Raspbian.
 
 2. Descompacte o arquivo baixado.
 
-3. Abra o Terminal teclando:
+3. Abra o Terminal pressionando  as teclas:
 
 ```text
 Ctrl + Alt + T
