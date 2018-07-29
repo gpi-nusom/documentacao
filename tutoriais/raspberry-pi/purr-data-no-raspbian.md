@@ -6,7 +6,7 @@ description: Tutorial de instalação do Purr Data no Raspbian.
 
 **Válido para o** [**Rasbian Stretch with Desktop**](https://www.raspberrypi.org/downloads/raspbian/)**.**
 
-1.Baixe o pacote binário do mais recente do [Purr-data](https://github.com/jonwwilkes/purr-data/releases).
+1. Baixe o pacote binário do mais recente do [Purr-data](https://github.com/jonwwilkes/purr-data/releases).
 
     No momento em que este tutorial foi escrito:  
 [    pd-l2ork-2.5.1-raspbian\_stretch-armv7l.zip](https://github.com/jonwwilkes/purr-data/releases/download/2.5.1/pd-l2ork-2.5.1-raspbian_stretch-armv7l.zip)
@@ -15,7 +15,15 @@ description: Tutorial de instalação do Purr Data no Raspbian.
 
 3. Abra o Terminal teclando:
 
-4. Navegue até a pasta em que foi decompactado o arquivo de instalação do pd-l2ork.
+```text
+Ctrl + Alt + T
+```
+
+4. Navegue até a pasta em que foi decompactado o arquivo de instalação do pd-l2ork. Se você descompactou no diretório de download padrão será assim:
+
+```text
+cd Downloads
+```
 
 5. Instale as dependências do pacote:
 
