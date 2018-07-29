@@ -1,3 +1,7 @@
+---
+description: Tutorial de instalação do Purr Data no Raspbian Stretch.
+---
+
 # Purr Data no Raspbian
 
 
@@ -24,11 +28,9 @@
    sudo dpkg -i pd-l2ork-2.5.1-20180414-rev.8916c70d-armv7l.deb
    ```
 
-!!!! \#\#\#\#\#\#_**Dica:** no terminal ao invés de digitar o nome completo, digite as primeiras letras e pressione a tecla **Tab.**_
+> _**Dica:** no terminal ao invés de digitar o nome completo, digite as primeiras letras e pressione a tecla **Tab.**_
 
     7. Confirme a instalação e aguarde a finalização.
 
     8. Agora é só utilizar o Purr-data no Raspbian
-
-
 
