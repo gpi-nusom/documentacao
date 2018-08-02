@@ -13,7 +13,7 @@ Neste tutorial será fundamental o uso do Terminal. No Ubuntu desktop, para abri
 
 
 
-PASSO 1 - Procurar pelo dispositivo que está lendo o cartão SD no sistema:
+**PASSO 1** - Procurar pelo dispositivo que está lendo o cartão SD no sistema:
 
 ```bash
 sudo blkid
@@ -50,7 +50,7 @@ Se inserirmos um novo **pendrive** e/ou **outro dispositivo de armazenamento** q
 
 
 
-PASSO 2 - Vamos agora fazer a criação de uma imagem do cartão SD \(backup\):
+**PASSO 2** - Vamos agora fazer a criação de uma imagem do cartão SD \(backup\):
 
 ```bash
 sudo dd if=/dev/sdb of=/home/meu_usuário/meu_backup_do_raspberrypi.img bs=1M
@@ -65,7 +65,7 @@ ATENÇÃO
 
 
 
-PASSO 3 - Instalar o [PiShrink](https://github.com/Drewsif/PiShrink) \(Se já tiver instalado o PiShrink, pode pular pro PASSO 4\)
+**PASSO 3** - Instalar o [PiShrink](https://github.com/Drewsif/PiShrink) \(Se já tiver instalado o PiShrink, pode pular pro PASSO 4\)
 
 * Baixar o PiShrink. No terminal escreva: 
 
@@ -87,7 +87,7 @@ PASSO 3 - Instalar o [PiShrink](https://github.com/Drewsif/PiShrink) \(Se já ti
 
 
 
-PASSO 4 - Comprimir imagem extraída do SD:
+**PASSO 4** - Comprimir imagem extraída do SD:
 
 ```text
 sudo pishrink.sh meu_backup_do_raspberrypi.img meu_backup_do_raspberrypi_comprimido.img
