@@ -45,7 +45,7 @@ fique esperto que a sua saída pode ser diferente, o lance é procurar pelo sist
 o dispositivo \(device\) /dev/sdbX, no nosso caso /dev/sdb1 e /dev/sdb2 indicam que o endereço /dev/sdb é o do dispositivo que procuramos.
 
 {% hint style="info" %}
-Se inserirmos um novo pendrive e/ou outro dispositivo de armazenamento qualquer ele irá adquirir o nome de /dev/sdc, /dev/sdd e assim por diante. Supondo que o outro dispositivo de armazenamento tenha 3 partições, cada partição seria nomeada como: /dev/sdd1, /dev/sdd2 e /dev/sdd3.
+Se inserirmos um novo **pendrive** e/ou **outro dispositivo de armazenamento** qualquer, ele iria adquirir o nome: _/dev/sdc_, _/dev/sdd_ e assim por diante. Supondo que o **outro dispositivo de armazenamento** tenha 3 partições, cada partição seria nomeada como: _/dev/sdd1_, _/dev/sdd2_ e _/dev/sdd3_.
 {% endhint %}
 
 
@@ -53,14 +53,14 @@ Se inserirmos um novo pendrive e/ou outro dispositivo de armazenamento qualquer 
 PASSO 2 - Vamos agora fazer a criação de uma imagem do cartão SD \(backup\):
 
 ```bash
-sudo dd if=/dev/sdb of=/home/meu_usuário/meubackupdoraspberrypi.img bs=1M
+sudo dd if=/dev/sdb of=/home/meu_usuário/meu_backup_do_raspberrypi.img bs=1M
 ```
 
 {% hint style="info" %}
 ATENÇÃO
 
 * Repare que após:  _if=_  você deverá substituir o _/dev/sdb_ pelo endereço do dispositivo que você identificou no PASSO 1 deste tutorial.
-* Após: _of=_  , a parte escrita "_meu\_usuário"_  deve ser substituido pelo seu nome de usuário e "_meubackupdoraspberrypi_" pelo nome que vc escolher para sua imagem.
+* Após: _of=_  , a parte escrita "_meu\_usuário"_  deve ser substituido pelo seu nome de usuário e "_meu\_backup\_do\_raspberrypi_" pelo nome que vc escolher para sua imagem.
 {% endhint %}
 
 
@@ -90,7 +90,7 @@ PASSO 3 - Instalar o [PiShrink](https://github.com/Drewsif/PiShrink) \(Se já ti
 PASSO 4 - Comprimir imagem extraída do SD:
 
 ```text
-sudo pishrink.sh meubackupdoraspberrypi.img meubackupdoraspberrypicomprimido.img
+sudo pishrink.sh meu_backup_do_raspberrypi.img meu_backup_do_raspberrypi_comprimido.img
 ```
 
 
