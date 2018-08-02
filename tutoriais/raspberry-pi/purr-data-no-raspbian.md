@@ -21,19 +21,19 @@ Ctrl + Alt + T
 
 4. Navegue até a pasta em que foi decompactado o arquivo de instalação do pd-l2ork. Se você descompactou no diretório de download padrão será assim:
 
-```text
+```bash
 cd Downloads
 ```
 
 5. Instale as dependências do pacote:
 
-```text
+```bash
 sudo apt install fluid-soundfont-gm libgsl2 liblua5.3-0 libquicktime2
 ```
 
 6. Instale o pacote do Purr Data:
 
-```text
+```bash
 sudo dpkg -i pd-l2ork-2.5.1-20180414-rev.8916c70d-armv7l.deb
 ```
 

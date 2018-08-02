@@ -5,7 +5,7 @@
 1. Abrir o terminal teclando: `Ctrl+Alt+T`
 2. No terminal:
 
-   ```text
+   ```bash
    sudo rpi-update
    sudo reboot
    ```
@@ -15,7 +15,7 @@
 3. Abrir o Terminal novamente: `Ctrl+Alt+T`
 4. Para habilitar o driver da placa, abra o arquivo de configuração digitando no terminal:
 
-   ```text
+   ```bash
    sudo leafpad /boot/config.txt
    ```
 
@@ -29,7 +29,7 @@
 6. Salve o documento
 7. Agora vamos criar o arquivo de configuração da placa, no Terminal:
 
-   ```text
+   ```bash
    sudo leafpad /etc/modprobe.d/cirrus.conf
    ```
 
@@ -42,7 +42,7 @@
 
 9. Agora baixe e instale "usecase" mixer scripts:
 
-   ```text
+   ```bash
    wget http://www.horus.com/~hias/tmp/cirrus/cirrus-ng-scripts.tgz
    mkdir bin
    cd bin
