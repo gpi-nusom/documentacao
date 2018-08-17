@@ -1,8 +1,4 @@
----
-description: >-
-  Apresentação do Laboratório de Interações Sonoras criado com orientação do
-  Prof. Dr. Julian Jaramillo Arango sob supervisão do Prof.
----
-
 # Grupo de Práticas Interativas do NuSom
+
+O grupo de práticas Interativas do Nusom  se reúne semanalmente  no Departamento de Música da ECA. O intuito do grupo é explorar recentes insumos informáticos para a prototipagem de dispositivos sonoros interativos como Arduino, Raspberry Pi e o ESP8266. São privilegiadas atividades e projetos de caráter pratica envolvendo a fabricação dispositivos móveis e autônomos com operações de áudio que levam em consideração conceitos como internet das coisas e ubiquidade computacional. Os integrantes do grupo tem origens disciplinarias diversas e diferentes níveis de conhecimento técnico, no entanto se busca que os integrantes possam desenvolver questões da pesquisa de pós-graduação em andamento de modo prático e colaborativo. Embora o grupo se concebe e orienta no contexto de pós-graduação de  Sonología da USP, onde participam o programa de Música e o de Matemáticas e Estatística, também se prevê a participação de integrantes  de outras unidades.
 
