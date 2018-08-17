@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Laboratório de Interações Sonoras do NuSom](README.md)
+* [Grupo de Práticas Interativas do NuSom](README.md)
 * [Como usar](lab-nusom.md)
 * [Tutoriais](tutoriais/README.md)
   * [Raspberry Pi](tutoriais/raspberry-pi/README.md)

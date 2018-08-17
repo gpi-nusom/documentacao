@@ -4,5 +4,5 @@ description: >-
   Prof. Dr. Julian Jaramillo Arango sob supervisão do Prof.
 ---
 
-# Laboratório de Interações Sonoras do NuSom
+# Grupo de Práticas Interativas do NuSom
 
