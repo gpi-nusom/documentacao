@@ -7,6 +7,7 @@
     * [Cirrus Logic Audio Card](tutoriais/raspberry-pi/cirrus-logic-audio-card.md)
     * [Purr Data no Raspbian](tutoriais/raspberry-pi/purr-data-no-raspbian.md)
     * [Fazendo backup do Raspbian](tutoriais/raspberry-pi/fazendo-backup-do-raspbian.md)
+    * [Compilando Pure Data vanilla no RPi](tutoriais/raspberry-pi/compilando-pure-data-vanilla-no-rpi.md)
   * [Pure Data](tutoriais/pure-data.md)
   * [Arduino](tutoriais/arduino.md)
   * [ESP8266](tutoriais/esp8266.md)
