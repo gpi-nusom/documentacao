@@ -34,7 +34,7 @@ sudo apt install fluid-soundfont-gm libgsl2 liblua5.3-0 libquicktime2
 **PASSO 6** - Instale o pacote do Purr Data:
 
 ```bash
-sudo dpkg -i pd-l2ork-2.5.1-20180414-rev.8916c70d-armv7l.deb
+sudo dpkg -i pd-l2ork-2.6.0-20180918-rev.9ad5b258-armv7l.deb
 ```
 
 > _**Dica:** no terminal ao invés de digitar o nome completo, digite as primeiras letras e pressione a tecla **Tab.**_
