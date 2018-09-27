@@ -11,10 +11,6 @@ description: Tutorial de instalação do Purr Data no Raspbian.
     No momento em que este tutorial foi escrito:  
     [purr-double-trouble-test1-raspbian\_stretch-armv7l.zip](https://github.com/jonwwilkes/purr-data/releases/download/2.6.0/purr-double-trouble-test1-raspbian_stretch-armv7l.zip)
 
-```bash
-wget 
-```
-
 **PASSO 2** - Descompacte o arquivo baixado.
 
 **PASSO 3** - Abra o Terminal pressionando  as teclas:
