@@ -23,6 +23,9 @@ mkdir src && cd src
 
 ```bash
 sudo apt install build-essential autoconf automake libtool gettext git libasound2-dev libjack-jackd2-dev libfftw3-3 libfftw3-dev tcl tk
+```
+
+```text
 wget http://msp.ucsd.edu/Software/pd-0.49-0.src.tar.gz
 ```
 
@@ -30,6 +33,9 @@ wget http://msp.ucsd.edu/Software/pd-0.49-0.src.tar.gz
 
 ```bash
 tar -xzf pd-0.49-0.src.tar.gz
+```
+
+```text
 cd pd-0.49-0
 ```
 
@@ -37,7 +43,13 @@ cd pd-0.49-0
 
 ```text
 ./autogen.sh
+```
+
+```text
 ./configure --enable-jack --enable-fftw
+```
+
+```text
 make
 ```
 
@@ -45,6 +57,9 @@ make
 
 ```text
 cd bin
+```
+
+```text
 ./pd
 ```
 
@@ -52,8 +67,15 @@ cd bin
 
 ```text
 cd..
+```
+
+```text
 sudo make install
 ```
 
-Toda vez que quiser abrir o pure-data  que você compilou, basta abrir o terminal e digitar: `pd`
+Toda vez que quiser abrir o pure-data  que você compilou, basta abrir o terminal e digitar: 
+
+```text
+pd
+```
 
