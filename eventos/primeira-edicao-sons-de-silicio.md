@@ -6,5 +6,5 @@ description: >-
 
 # Primeira edição Sons de Silício
 
-Para mais informações sobre a exposição realizada visite a página: [https://sonsdesilicio.wordpress.com/](https://sonsdesilicio.wordpress.com/)
+Para mais informações sobre a exposição visite a página: [https://sonsdesilicio.wordpress.com/](https://sonsdesilicio.wordpress.com/)
 

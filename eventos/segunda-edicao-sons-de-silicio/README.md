@@ -7,4 +7,7 @@ description: >-
 # Segunda edição Sons de Silício
 
 * [Programação](programacao-sons-de-silicio-no-maria-antonia.md)
+* Ficha Técnica
+
+
 

@@ -1,7 +1,6 @@
 # Table of contents
 
 * [Grupo de Práticas Interativas do NuSom](README.md)
-* [Como usar](lab-nusom.md)
 * [Tutoriais](tutoriais/README.md)
   * [Raspberry Pi](tutoriais/raspberry-pi/README.md)
     * [Cirrus Logic Audio Card](tutoriais/raspberry-pi/cirrus-logic-audio-card.md)
@@ -15,6 +14,7 @@
 * [Eventos](eventos/README.md)
   * [Primeira edição Sons de Silício](eventos/primeira-edicao-sons-de-silicio.md)
   * [Segunda edição Sons de Silício](eventos/segunda-edicao-sons-de-silicio/README.md)
+    * [Ficha Técnica](eventos/segunda-edicao-sons-de-silicio/ficha-tecnica.md)
     * [Programação Sons de Silício no Maria Antônia](eventos/segunda-edicao-sons-de-silicio/programacao-sons-de-silicio-no-maria-antonia.md)
 * [Colaboradores](colaboradores.md)
 * [Parceiros](parceiros.md)
