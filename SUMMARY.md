@@ -12,7 +12,10 @@
   * [Arduino](tutoriais/arduino.md)
   * [ESP8266](tutoriais/esp8266.md)
   * [Sensores](tutoriais/sensores.md)
-* [Eventos](eventos.md)
+* [Eventos](eventos/README.md)
+  * [Primeira edição Sons de Silício](eventos/primeira-edicao-sons-de-silicio.md)
+  * [Segunda edição Sons de Silício](eventos/segunda-edicao-sons-de-silicio/README.md)
+    * [Programação Sons de Silício no Maria Antônia](eventos/segunda-edicao-sons-de-silicio/programacao-sons-de-silicio-no-maria-antonia.md)
 * [Colaboradores](colaboradores.md)
 * [Parceiros](parceiros.md)
 
