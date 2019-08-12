@@ -8,15 +8,14 @@
     * [Purr Data no Raspbian](tutoriais/raspberry-pi/purr-data-no-raspbian.md)
     * [Fazendo backup do Raspbian](tutoriais/raspberry-pi/fazendo-backup-do-raspbian.md)
     * [Compilando Pure Data vanilla no RPi](tutoriais/raspberry-pi/compilando-pure-data-vanilla-no-rpi.md)
-  * [Pure Data](tutoriais/pure-data.md)
-  * [Arduino](tutoriais/arduino.md)
-  * [ESP8266](tutoriais/esp8266.md)
-  * [Sensores](tutoriais/sensores.md)
 * [Eventos](eventos/README.md)
   * [Primeira edição Sons de Silício](eventos/primeira-edicao-sons-de-silicio.md)
   * [Segunda edição Sons de Silício](eventos/segunda-edicao-sons-de-silicio/README.md)
     * [Ficha Técnica](eventos/segunda-edicao-sons-de-silicio/ficha-tecnica.md)
     * [Programação Sons de Silício no Maria Antônia](eventos/segunda-edicao-sons-de-silicio/programacao-sons-de-silicio-no-maria-antonia.md)
-* [Colaboradores](colaboradores.md)
-* [Parceiros](parceiros.md)
+
+## Quem somos
+
+* [Colaboradores](quem-somos/colaboradores.md)
+* [Parceiros](quem-somos/parceiros.md)
 
