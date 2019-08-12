@@ -39,17 +39,17 @@ Neste tutorial faremos uso da segunda imagem, o Raspbian Buster with desktop.
 
 **PASSO 4** - Insira o SDcard no seu computador e abra o balenaEtcher:
 
-![balenaEtcher](../../.gitbook/assets/captura-de-tela-2019-08-11-a-s-22.38.07.png)
+![balenaEtcher](../../../.gitbook/assets/captura-de-tela-2019-08-11-a-s-22.38.07.png)
 
 **PASSO 5** - Arraste a Imagem do Raspbian que você baixou no PASSO 2 para dentro da janela do balenaEtcher, se necessário, selecione o cartão SD correto em "Select target e em seguida pressione o "Flash!":
 
-![Gravando imagem do Raspbian no cart&#xE3;o microSD](../../.gitbook/assets/captura-de-tela-2019-08-11-a-s-22.53.17.png)
+![Gravando imagem do Raspbian no cart&#xE3;o microSD](../../../.gitbook/assets/captura-de-tela-2019-08-11-a-s-22.53.17.png)
 
 **PASSO 6** - Aguarde o balenaEtcher anunciar o término da operação, insira o cartão microSD no RaspberryPi.
 
-![](../../.gitbook/assets/captura-de-tela-2019-08-11-a-s-23.00.50.png)
+![](../../../.gitbook/assets/captura-de-tela-2019-08-11-a-s-23.00.50.png)
 
 **PASSO 7** -  Conecte a alimentação de energia do seu Raspberry Pi e aguarde o fim da inicialização.
 
-![Desktop do Raspbian Buster](../../.gitbook/assets/2019-07-10-012934_1680x1050_scrot.png)
+![Desktop do Raspbian Buster](../../../.gitbook/assets/2019-07-10-012934_1680x1050_scrot.png)
 
