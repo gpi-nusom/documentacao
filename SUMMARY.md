@@ -3,6 +3,7 @@
 * [Grupo de Práticas Interativas do NuSom](README.md)
 * [Tutoriais](tutoriais/README.md)
   * [Raspberry Pi](tutoriais/raspberry-pi/README.md)
+    * [Instalando Raspbian em um cartão microSD](tutoriais/raspberry-pi/instalando-raspbian-em-um-cartao-microsd.md)
     * [Cirrus Logic Audio Card](tutoriais/raspberry-pi/cirrus-logic-audio-card.md)
     * [Purr Data no Raspbian](tutoriais/raspberry-pi/purr-data-no-raspbian.md)
     * [Fazendo backup do Raspbian](tutoriais/raspberry-pi/fazendo-backup-do-raspbian.md)
