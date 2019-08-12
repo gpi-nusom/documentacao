@@ -16,6 +16,7 @@
   * [Segunda edição Sons de Silício](atividades/eventos/segunda-edicao-sons-de-silicio/README.md)
     * [Ficha Técnica](atividades/eventos/segunda-edicao-sons-de-silicio/ficha-tecnica.md)
     * [Programação Sons de Silício no Maria Antônia](atividades/eventos/segunda-edicao-sons-de-silicio/programacao-sons-de-silicio-no-maria-antonia.md)
+* [Produção](atividades/producao.md)
 
 ## Quem somos
 
