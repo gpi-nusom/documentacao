@@ -1,7 +1,5 @@
 ---
-description: >-
-  Exposição de arte sonora a ser realizada no período de 13 de setembro a 13 de
-  dezembro de 2019 no Espaço Universitário Maria Antônia da Usp.
+description: Abertura dia 13 de Setembro 19hs no Espaço Universitário Maria Antônia da Usp.
 ---
 
 # Segunda edição Sons de Silício
