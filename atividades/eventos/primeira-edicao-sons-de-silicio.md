@@ -6,5 +6,7 @@ description: >-
 
 # Primeira edição Sons de Silício
 
+![](../../.gitbook/assets/sons-de-silicio-1-baixa.jpg)
+
 Para mais informações sobre a exposição visite a página: [https://sonsdesilicio.wordpress.com/](https://sonsdesilicio.wordpress.com/)
 
