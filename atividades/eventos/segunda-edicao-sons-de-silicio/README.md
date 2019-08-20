@@ -1,5 +1,7 @@
 ---
-description: Abertura dia 13 de Setembro 19hs no Espaço Universitário Maria Antônia da Usp.
+description: >-
+  Abertura dia 13 de Setembro 19hs no Centro Universitário Maria Antônia da Usp.
+  Rua Maria Antônia, 294. Vila Buarque - São Paulo, SP.
 ---
 
 # Segunda edição Sons de Silício
