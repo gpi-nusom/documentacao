@@ -4,6 +4,10 @@ description: 'Autores: Pedro Paulo Santos e Esteban Viveros'
 
 # Sinfonia Onírica, virtualidades suspensas
 
+{% hint style="info" %}
+## PROJETO PARA A OBRA
+{% endhint %}
+
 ## Descrição
 
 Sinfonia onírica, virtualidades suspensas” é uma instalação artístico-científica que tem como objetivo explorar produtos resultantes da atividade do chamado inconsciente humano.
@@ -14,7 +18,7 @@ Os textos, também sonificados, e as imagens emergidas durante o percurso interi
 
 A mescla de todos esses suportes interpretativos inter-relacionados compõem uma obra-passaporte de comunicação entre o consciente e o inconsciente
 
-## Projeto
+## Ilustração
 
 ![](../../../.gitbook/assets/sinfonia-onirica.jpg)
 
