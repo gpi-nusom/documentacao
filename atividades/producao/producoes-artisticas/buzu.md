@@ -24,13 +24,13 @@ _BUZU foi realizado com recursos da CAPES \(financial code 001\) e do CNPq \(Pro
 
 ![Buzu \(2019\) - Primeira edi&#xE7;&#xE3;o Sons de Sil&#xED;cio \(foto Subtil J&#xE9;ssica\) ](../../../.gitbook/assets/img_8994.jpg)
 
+![Buzu \(2019\) - Primeira edi&#xE7;&#xE3;o Sons de Sil&#xED;cio](../../../.gitbook/assets/img_3875.JPG)
+
 ![Buzu \(2019\) - \(foto Subtil J&#xE9;ssica\)](../../../.gitbook/assets/img_9000.jpg)
 
 ![Buzu \(2019\) - \(foto Subtil J&#xE9;ssica\)](../../../.gitbook/assets/img_9013.jpg)
 
-![Buzu \(2019\) - \(foto Subtil J&#xE9;ssica\)](../../../.gitbook/assets/img_8988.jpg)
-
-![Buzu \(2019\) - Primeira edi&#xE7;&#xE3;o Sons de Sil&#xED;cio](../../../.gitbook/assets/img_3875.JPG)
-
 ![Buzu \(2019\) - Primeira edi&#xE7;&#xE3;o Sons de Sil&#xED;cio](../../../.gitbook/assets/img_3872.JPG)
+
+![Buzu \(2019\) - \(foto Subtil J&#xE9;ssica\)](../../../.gitbook/assets/img_8988.jpg)
 
