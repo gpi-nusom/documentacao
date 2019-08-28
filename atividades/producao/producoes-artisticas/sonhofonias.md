@@ -10,7 +10,7 @@ description: 'Autores: Pedro Paulo Santos e Julian Jaramillo Arango'
 
 ## Video
 
-{% embed url="https://drive.google.com/a/usp.br/file/d/1KmO2VOlURmw3XIUVXRSrob0zyn3Y-1Gf/view?usp=sharing" caption="Sonhofonias \(2019/18\)" %}
+{% embed url="https://youtu.be/IyyT0m\_8Lzc" caption="Sonhofonias \(2019/18\)" %}
 
 ## Imagens
 
