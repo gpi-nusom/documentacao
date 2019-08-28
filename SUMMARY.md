@@ -18,6 +18,7 @@
     * [Programação Sons de Silício no Maria Antônia](atividades/eventos/segunda-edicao-sons-de-silicio/programacao-sons-de-silicio-no-maria-antonia.md)
 * [Produção](atividades/producao/README.md)
   * [Produções Artísticas](atividades/producao/producoes-artisticas/README.md)
+    * [Buzu \(2019\)](atividades/producao/producoes-artisticas/buzu.md)
     * [Sonhofonias \(2018/19\)](atividades/producao/producoes-artisticas/sonhofonias.md)
     * [Sinfonia Onírica, virtualidades suspensas](atividades/producao/producoes-artisticas/sinfonia-onirica-virtualidades-suspensas.md)
 
