@@ -14,6 +14,10 @@ O dataset coleciona informação sobre o planejamento e comportamento do sistema
 
 _BUZU foi realizado com recursos da CAPES \(financial code 001\) e do CNPq \(Proc C465446/2014-0\)._
 
+## Video
+
+{% embed url="https://youtu.be/bs0t2PKWqrk" caption="Buzu \(2019\)" %}
+
 ## Links
 
 * [Dataset criado para Buzu](https://github.com/emviveros/Interscity_pd_dataset)
