@@ -1,5 +1,5 @@
 ---
-description: 'Autores: Pedro Paulo Santos e Esteban Viveros'
+description: 'Autores: Pedro Paulo Santos, Esteban Viveros e Luzilei Aliel.'
 ---
 
 # Sinfonia Onírica, virtualidades suspensas
