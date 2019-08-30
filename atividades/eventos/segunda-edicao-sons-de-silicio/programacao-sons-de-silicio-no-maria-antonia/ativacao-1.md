@@ -20,17 +20,11 @@ https://www.youtube.com/watch?v=bRENNVfRgPU
 
 Performance de guitarra solo, tocada por atuadores eletromagnéticos e circuitos eletrônicos caseiros.
 
-Exemplos de registros dessa performance:
-
 * [https://andredamiao.bandcamp.com/](https://andredamiao.bandcamp.com/)
 * [https://andredamiao.hotglue.me/?concat/](https://andredamiao.hotglue.me/?concat/)
 * [ http://radia.fm/2019/05/show-737-no-ravens-left-for-the-funeral-by-andre-damiao-for-radio-corax/](%20http://radia.fm/2019/05/show-737-no-ravens-left-for-the-funeral-by-andre-damiao-for-radio-corax/)
 
 ## **Laikabot**​ - _Pocket show banda Laikabot_
-
-## **Captador** ​- _Cristiano Figueiró_
-
-Performance com a instalação “Captador” da exposição. 
 
 ## **Sonhofonias**​ - _Pedro Paulo Santos_
 

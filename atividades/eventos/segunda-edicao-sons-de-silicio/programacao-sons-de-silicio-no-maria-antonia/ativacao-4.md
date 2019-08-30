@@ -12,7 +12,7 @@ O duo explora em suas performances uma zona de interferências entre a música p
 
 Para a Mostra Sons de Silício o duo pretende convidar as/os espectadores à dialogarem com a performance de livre improvisação musical utilizando dispositivos eletrônicos como pedais de efeito e microfones, bem como a partir de propostas interativas criadas pelos músicos a serem elencadas aleatoriamente pelo público.
 
-## **Trio Maomã**
+## **Trio Mámomã**
 
 ### _Performance audiovisual_
 

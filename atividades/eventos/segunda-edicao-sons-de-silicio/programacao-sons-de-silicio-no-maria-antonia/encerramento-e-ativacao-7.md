@@ -4,15 +4,9 @@ description: '13/12 - Sexta - 18:00 às 22:00'
 
 # Encerramento e ativação 7
 
-## GPI NuSom
-
-### _Performance_
-
-Ação musical utilizando instrumentos produzidos pelo próprio grupo em suas pesquisas de luteria digital, desenvolvimento de instalações interativas e novas interfaces musicais.
-
 ## **Patch Shop Boy**​ - _Alexandre Torres Porres_
 
-### _Perfomances_
+### _Perfomance_
 
 ## **Sonhofonias**​ - _Pedro Paulo Santos_
 
@@ -36,7 +30,11 @@ Performance interativa com formação de duos entre o público e a artista morde
 
 A partir do "Pas de Cinq", de Maurice Kagel, a performance desenvolverá a exploração sonora do ambiente, enquanto espacialidade e acústica, criando correspondências entre gesto e musicalidade incidental/intencional, desde a delimitação e instalação das linhas do percurso, um pentágono com uma estrela de cinco pontas no seu interior, preenchidas com diversos materiais, criando semelhanças, contrastes e silêncios. Assim, o grupo criará coletivamente, depois deslocando-se no seu interior, com a percussão dos passos, uma experiência do som, dilatando as fronteiras do musical e os ritmos e ruídos da vida, a técnica e a arte.
 
-Interpretaremos a peça "Cidades", de Gilberto Mendes em diálogo com a exposição, em sua proposta ao Anagrama de vivência do ruído em que se constroem e descontroem significados da vida urbana, criando poeticidade e humor do non-sense das sincronias, rupturas e desencontros. Na aleatoriedade dos espaços abertos de um roteiro gráfico que pressupõe música em silêncios e gestos, referências musicais populares e clássicas, uma mixórdia de sons, acústicos e eletrônicos, falados e cantados, definidos e indefinidos, juxtapostos, sobrepostos, organizados e em caos criam uma miríade de ideias e ressignificações sobre o cotidiano das cidades. As projeções de imagens compõem também os ritmos da peça, agregando mais um aspecto sensorial às imbricações entre música, cinema e artes cênicas.
+Interpretação da peça "Cidades", de Gilberto Mendes em diálogo com a exposição, em sua proposta ao Anagrama de vivência do ruído em que se constroem e desconstroem significados da vida urbana, criando poeticidade e humor do non-sense das sincronias, rupturas e desencontros. Na aleatoriedade dos espaços abertos de um roteiro gráfico que pressupõe música em silêncios e gestos, referências musicais populares e clássicas, uma mixórdia de sons, acústicos e eletrônicos, falados e cantados, definidos e indefinidos, justapostos, sobrepostos, organizados e em caos criam uma miríade de ideias e ressignificações sobre o cotidiano das cidades. As projeções de imagens compõem também os ritmos da peça, agregando mais um aspecto sensorial às imbricações entre música, cinema e artes cênicas.
+
+## **Captador** ​- _Cristiano Figueiró_
+
+Performance com a instalação “Captador” da exposição. 
 
 ### Sons de Silício
 

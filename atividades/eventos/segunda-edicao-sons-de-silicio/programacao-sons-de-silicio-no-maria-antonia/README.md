@@ -9,7 +9,6 @@ description: Sons de Silício no Maria Antônia
   * **Orquestra Errante**
   * **Banda Laikabot**
   *  **No ravens left for the funeral** **-** _André Damião_
-  *  **Captador** - _Cristiano Figueiró_
   *   **Sonhofonias** - _Pedro Paulo Santos_
   * **Transduções \#7** - _Alessandra Bochio e Felipe Merker Castellani_
 
@@ -60,5 +59,6 @@ description: Sons de Silício no Maria Antônia
   * **Constante Elástica**​ - _Bella_
   * **Nylon bites**​ - _Mariana Carvalho_
   * **Ensemble Anagrama** 
+  *  **Captador** - _Cristiano Figueiró_
   * **Sons de Silício** - _GPI/NuSom,  Fernão Ciampa_
 

@@ -14,11 +14,13 @@ Theremin de arduino. Nesta oficina os participantes terão a oportunidade de con
 
 ### _Laboratório aberto_ 
 
+Laboratório aberto de criação de pedais de processamento com Raspberry Pi.
+
 \_\_
 
 ## **SPIO Orquestra**​
 
 ### Performance
 
-Laboratório aberto de criação de pedais de processamento com Raspberry Pi.
+\_\_[_https://www.facebook.com/spioorquestra/_](https://www.facebook.com/spioorquestra/)\_\_
 
