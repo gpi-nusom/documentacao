@@ -8,7 +8,7 @@ description: >-
 
 A 16.a edição da série ¿Música? apresenta a exposição Sons de Silício, explorando o campo da Arte Sonora como conceito integrador de práticas nas fronteiras entre música, artes visuais e ciências da computação e como catalisador de novos modos de experimentação sonora com a tecnologia. A exposição que vem sendo realizada a partir da colaboração do GPI-NuSom \(Grupo de Práticas Interativas do NuSom\) com o projeto [InterSCity](http://interscity.org/) que pesquisa o futuro de cidades inteligentes chega a sua segunda edição. 
 
-![](../../../.gitbook/assets/cartaz_sons_silicio2.jpg)
+![](../../../.gitbook/assets/sons-silicio-quadrado.jpg)
 
 Durante três meses o [Centro Universitário Maria Antonia](http://www.mariantonia.prceu.usp.br/) será o lugar de encontro e reflexão sobre o som em uma perspectiva ampliada e enriquecida com conceitos de outros campos do conhecimento, fazendo com que o instrumento musical se torne máquina,  dispositivo, arranjo, escultura, sistema interativo, estrutura ressonante, meio para explorar a informação, extensão do corpo, circuito, escultura, canal e experimento. Durante a exposição serão realizadas performances e oficinas. 
 
