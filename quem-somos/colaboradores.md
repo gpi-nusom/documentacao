@@ -1,6 +1,6 @@
 # Colaboradores
 
-* Julian Jaramillo Arango - Coordenador
+* Julian Jaramillo Arango 
 * Fábio Martinelli
 * Esteban Viveros
 * Vitor Kisil Miskalo
@@ -9,6 +9,7 @@
 * André Damião Bandeira
 * André Martins
 * Ricardo Thomasi
+* Cristiano Figueiró
 
 
 
