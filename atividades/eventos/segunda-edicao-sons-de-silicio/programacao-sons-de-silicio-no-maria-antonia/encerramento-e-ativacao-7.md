@@ -28,13 +28,15 @@ A instalação constante elástica é um desdobramento da performance Arame de C
 
 ### _Performance_
 
-Performance interativa \(como na abertura da exposição no EDA\). Farei duos com pessoas \(público\) mordendo nylon. Usaremos microfones binaurais \(eu e quem tocar comigo\) e estaremos conectadxs à mesa de som. Uma terceira pessoa pode escutar com fone direto da mesa e "mixar as cabeças".
+Performance interativa com formação de duos entre o público e a artista mordendo nylon. Serão usados microfones binaurais e estarão conectadxs à mesa de som. Uma terceira pessoa pode escutar com fone direto da mesa e "mixar as cabeças".
 
 ## **Ensemble Anagrama**
 
 ### _Performance_
 
 A partir do "Pas de Cinq", de Maurice Kagel, a performance desenvolverá a exploração sonora do ambiente, enquanto espacialidade e acústica, criando correspondências entre gesto e musicalidade incidental/intencional, desde a delimitação e instalação das linhas do percurso, um pentágono com uma estrela de cinco pontas no seu interior, preenchidas com diversos materiais, criando semelhanças, contrastes e silêncios. Assim, o grupo criará coletivamente, depois deslocando-se no seu interior, com a percussão dos passos, uma experiência do som, dilatando as fronteiras do musical e os ritmos e ruídos da vida, a técnica e a arte.
+
+Interpretaremos a peça "Cidades", de Gilberto Mendes em diálogo com a exposição, em sua proposta ao Anagrama de vivência do ruído em que se constroem e descontroem significados da vida urbana, criando poeticidade e humor do non-sense das sincronias, rupturas e desencontros. Na aleatoriedade dos espaços abertos de um roteiro gráfico que pressupõe música em silêncios e gestos, referências musicais populares e clássicas, uma mixórdia de sons, acústicos e eletrônicos, falados e cantados, definidos e indefinidos, juxtapostos, sobrepostos, organizados e em caos criam uma miríade de ideias e ressignificações sobre o cotidiano das cidades. As projeções de imagens compõem também os ritmos da peça, agregando mais um aspecto sensorial às imbricações entre música, cinema e artes cênicas.
 
 ### Sons de Silício
 
