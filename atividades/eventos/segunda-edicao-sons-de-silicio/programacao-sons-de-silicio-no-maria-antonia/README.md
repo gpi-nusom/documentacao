@@ -1,4 +1,8 @@
-# Programação Sons de Silício no Maria Antônia
+---
+description: Sons de Silício no Maria Antônia
+---
+
+# Programação
 
 * \*\*\*\*[**Abertura e ativação 1**](ativacao-1.md) ****- 13/09 \(Sexta\) 18:30 às 22:00
 

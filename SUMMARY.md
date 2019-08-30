@@ -15,7 +15,7 @@
   * [Primeira edição Sons de Silício](atividades/eventos/primeira-edicao-sons-de-silicio.md)
   * [Segunda edição Sons de Silício](atividades/eventos/segunda-edicao-sons-de-silicio/README.md)
     * [Ficha Técnica](atividades/eventos/segunda-edicao-sons-de-silicio/ficha-tecnica.md)
-    * [Programação Sons de Silício no Maria Antônia](atividades/eventos/segunda-edicao-sons-de-silicio/programacao-sons-de-silicio-no-maria-antonia/README.md)
+    * [Programação](atividades/eventos/segunda-edicao-sons-de-silicio/programacao-sons-de-silicio-no-maria-antonia/README.md)
       * [Abertura e Ativação 1](atividades/eventos/segunda-edicao-sons-de-silicio/programacao-sons-de-silicio-no-maria-antonia/ativacao-1.md)
       * [Ativação 2](atividades/eventos/segunda-edicao-sons-de-silicio/programacao-sons-de-silicio-no-maria-antonia/ativacao-2.md)
       * [Ativação 3](atividades/eventos/segunda-edicao-sons-de-silicio/programacao-sons-de-silicio-no-maria-antonia/ativacao-3.md)
