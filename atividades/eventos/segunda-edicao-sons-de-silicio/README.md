@@ -14,8 +14,9 @@ Durante três meses o [Centro Universitário Maria Antonia](http://www.marianton
 
 A série ¿Música? é organizada desde 2005 pelo [NuSom](http://www2.eca.usp.br/nusom/), Núcleo de Pesquisas em Sonologia da USP. Os eventos apresentam regularmente trabalhos musicais e de arte sonora que tomam como ponto de discussão e reflexão o experimentalismo, o uso crítico de tecnologias de produção sonora, a integração entre elementos visuais, gestuais e sonoros, o emprego de técnicas de improvisação e a exploração dos espaços de performance
 
-* [Programação](programacao-sons-de-silicio-no-maria-antonia/)
-* [Ficha Técnica](ficha-tecnica.md)
+{% page-ref page="programacao-sons-de-silicio-no-maria-antonia/" %}
+
+{% page-ref page="ficha-tecnica.md" %}
 
 
 
