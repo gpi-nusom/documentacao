@@ -33,7 +33,7 @@ description: Sons de Silício no Maria Antônia
 
 * \*\*\*\*[**Ativação 4** ](ativacao-4.md)**-** 08/11 \(Sexta\), 19 às 22hs
 
-  * **Trio Maomã**
+  * **Trio Mámomã**
   * **Duo Cóz -**​ _Migue Antar e Fabio Manzione_
   * **Popcorn Time -** ​_Fabio Martineli_
 
@@ -59,5 +59,6 @@ description: Sons de Silício no Maria Antônia
   * **Sonhofonias**​ - _Pedro Paulo Santos_
   * **Constante Elástica**​ - _Bella_
   * **Nylon bites**​ - _Mariana Carvalho_
-  * **Ensemble Anagrama -** ​ _Maurice Kagel,  Gilberto Mendes_
+  * **Ensemble Anagrama** 
+  * **Sons de Silício** - _GPI/NuSom,  Fernão Ciampa_
 

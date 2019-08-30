@@ -36,3 +36,9 @@ Performance interativa \(como na abertura da exposição no EDA\). Farei duos co
 
 A partir do "Pas de Cinq", de Maurice Kagel, a performance desenvolverá a exploração sonora do ambiente, enquanto espacialidade e acústica, criando correspondências entre gesto e musicalidade incidental/intencional, desde a delimitação e instalação das linhas do percurso, um pentágono com uma estrela de cinco pontas no seu interior, preenchidas com diversos materiais, criando semelhanças, contrastes e silêncios. Assim, o grupo criará coletivamente, depois deslocando-se no seu interior, com a percussão dos passos, uma experiência do som, dilatando as fronteiras do musical e os ritmos e ruídos da vida, a técnica e a arte.
 
+### Sons de Silício
+
+Performance
+
+O GPI NuSom se une ao artista multimídia Fernão Ciampa na performance Sons de Silício apresentando o resultado das pesquisas em Luteria digital, Instalações interativas e criação de novas interfaces sonoras.
+
