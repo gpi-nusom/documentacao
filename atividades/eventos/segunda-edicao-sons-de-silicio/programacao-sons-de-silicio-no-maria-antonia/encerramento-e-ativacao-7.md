@@ -58,3 +58,8 @@ Performance com a instalação “Captador” da exposição.
 
 O GPI NuSom se une ao artista multimídia Fernão Ciampa na performance Sons de Silício apresentando o resultado das pesquisas em Luteria digital, Instalações interativas e criação de novas interfaces sonoras.
 
+### Links:
+
+* [http://altav.org/fernao-ciampa/](http://altav.org/fernao-ciampa/)
+* [https://gpi-nusom.gitbook.io/](https://gpi-nusom.gitbook.io/)
+
