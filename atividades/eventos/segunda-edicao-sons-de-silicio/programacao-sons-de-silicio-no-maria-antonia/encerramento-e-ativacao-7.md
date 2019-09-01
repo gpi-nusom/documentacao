@@ -8,9 +8,25 @@ description: '13/12 - Sexta - 18:00 às 22:00'
 
 ### _Perfomance_
 
+![](../../../../.gitbook/assets/porres_performance.jpg)
+
+### Links:
+
+* [https://alexandre-torres.wixsite.com/el-locus-solus](https://alexandre-torres.wixsite.com/el-locus-solus)
+* [https://puredata.info/author/porres](https://puredata.info/author/porres)
+* [https://github.com/porres](https://github.com/porres)
+
 ## **Sonhofonias**​ - _Pedro Paulo Santos_
 
 ### _Performance_
+
+“Sonhofonias” é uma instalação artístico-científica que tem como objetivo explorar produtos resultantes da atividade do chamado inconsciente humano. Apresenta a "sonificação" ou a transformação em sons de registros Eletroencefalográficos, obtidos ao longo de uma noite de sono, integrada a desenhos e narrações dos textos de Carl Jung que foram criados a partir de sua exploração pessoal e reflexões sobre o conteúdo de seus próprios sonhos. 
+
+![](../../../../.gitbook/assets/img_4068.jpg)
+
+### Links:
+
+* [https://gpi-nusom.gitbook.io/documentacao/atividades/producao/producoes-artisticas/sonhofonias](https://gpi-nusom.gitbook.io/documentacao/atividades/producao/producoes-artisticas/sonhofonias)
 
 ## **Constante Elástica**​ - _Bella_
 
@@ -36,9 +52,9 @@ Interpretação da peça "Cidades", de Gilberto Mendes em diálogo com a exposi�
 
 Performance com a instalação “Captador” da exposição. 
 
-### Sons de Silício
+## Sons de Silício
 
-Performance
+### Performance
 
 O GPI NuSom se une ao artista multimídia Fernão Ciampa na performance Sons de Silício apresentando o resultado das pesquisas em Luteria digital, Instalações interativas e criação de novas interfaces sonoras.
 

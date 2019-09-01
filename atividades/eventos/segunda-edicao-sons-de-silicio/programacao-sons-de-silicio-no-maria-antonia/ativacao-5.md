@@ -16,7 +16,7 @@ O objetivo dos artistas é explorar distintas sonoridades provenientes da invest
 
 ### _Soundwalk_
 
-"Uma teia sonora" \(2019\) - Sound Walk Sunday e Sons de Silicio IIInstalação de som e movimento multicanal, baseada em caminhadas simultâneas e remotos, traduzidas em um espaço de performance, sobrepondo novas camadas de sons e idéias aos territórios pelos quais os participantes se movimentam, permitindo a criação de uma realidade paralela de movimento humano constante e compartilhado.
+"Uma teia sonora" \(2019\) - Sound Walk Sunday e Sons de Silício Instalação de som e movimento multicanal, baseada em caminhadas simultâneas e remotos, traduzidas em um espaço de performance, sobrepondo novas camadas de sons e idéias aos territórios pelos quais os participantes se movimentam, permitindo a criação de uma realidade paralela de movimento humano constante e compartilhado.
 
 O trabalho convida a novas formas de cooperação em som e movimento, desdobrando passos que restauram a trilha sonora do diálogo entre os humanos em movimento e o solo.
 

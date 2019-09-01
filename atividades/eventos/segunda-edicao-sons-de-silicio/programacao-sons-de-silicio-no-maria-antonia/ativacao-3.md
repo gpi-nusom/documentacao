@@ -10,13 +10,17 @@ description: '18/10 - Sexta - 19:00 às 22:00'
 
 Fluxos sanguíneos, caminhos sinuosos do corpo vocal.
 
-* [https://www.youtube.com/watch?v=RMp-6nGRHSI](https://www.youtube.com/watch?v=RMp-6nGRHSI)
+{% embed url="https://www.youtube.com/watch?v=RMp-6nGRHSI" %}
 
 ## **\#afetos\_ao\_vento**​. - _Marina Mapurunga_
 
 ### _Performance Audiovisual_
 
-[http://mapu.art.br/performances-audiovisuais/](http://mapu.art.br/performances-audiovisuais/)
+![](../../../../.gitbook/assets/afetos_ao_vento.png)
+
+### Links:
+
+* [http://mapu.art.br/performances-audiovisuais/](http://mapu.art.br/performances-audiovisuais/)
 
 
 
