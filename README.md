@@ -4,3 +4,15 @@ Fundado pelo Dr. Julián Jaramillo Arango, durante a realização de estágio p�
 
 Os integrantes do grupo tem origens disciplinares diversas e diferentes níveis de conhecimento técnico, no entanto, se busca que os integrantes possam desenvolver questões de pesquisa de pós-graduação de modo prático e colaborativo. Embora o grupo seja concebido e orientado no contexto de pós-graduação de Sonologia da USP, que faz parte do programa de Música, de Matemáticas e Estatística, também se prevê a participação de integrantes de outras unidades e também de fora da Universidade.
 
+## Destaque:
+
+* [Exposição Sons de Silício de 13 de Setembro a 13 de Dezembro de 2019](https://gpi-nusom.gitbook.io/documentacao/atividades/eventos/segunda-edicao-sons-de-silicio)
+
+
+
+{% page-ref page="atividades/eventos/" %}
+
+{% page-ref page="atividades/producao/" %}
+
+{% page-ref page="atividades/tutoriais/" %}
+
