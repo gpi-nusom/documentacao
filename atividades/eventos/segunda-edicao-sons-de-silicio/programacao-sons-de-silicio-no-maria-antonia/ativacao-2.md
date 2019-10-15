@@ -31,7 +31,7 @@ A SPIO \(São Paulo Improvisadores em Orquestra\) é a uma orquestra de músicos
 
 Com sonoridade ímpar e formação bem fora do comum , a SPIO tem em seu corpo sonoro instrumentos que vão dos tradicionais em orquestras até aparatos eletrônicos e luthierias de invenção. A proposta se desenvolve em uma abordagem experimental, sempre com peças compostas instantaneamente, o que faz com que cada apresentação se mostre única.
 
-![](../../../../.gitbook/assets/spio.jpg)
+![](../../../../.gitbook/assets/spio.jpeg)
 
 ### Links:
 
