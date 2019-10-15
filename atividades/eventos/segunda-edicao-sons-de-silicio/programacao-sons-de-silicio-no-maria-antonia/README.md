@@ -24,7 +24,7 @@ description: Sons de Silício no Maria Antônia
 
 * \*\*\*\*[**Ativação 3**](ativacao-3.md) **-** 18/10 \(Sexta\), 19 às 22hs
 
-  * **Veia**​ - _Inés Terra_
+  * **Veia**​ - _Inés Terra e Esteban Viveros_
   * **\#afetos\_ao\_vento**​. - _Marina Mapurunga_
   * **Batata Musik -** ​_Pedro Nonino_
 
