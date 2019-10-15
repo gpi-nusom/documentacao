@@ -4,7 +4,7 @@ description: '18/10 - Sexta - 19:00 às 22:00'
 
 # Ativação 3
 
-## **Veia**​ - _Inés Terra_
+## **Veia**​ - _Inés Terra e Esteban Viveros_
 
 ### _Performance_
 
