@@ -27,6 +27,7 @@ description: Sons de Silício no Maria Antônia
   * **Veia**​ - _Inés Terra e Esteban Viveros_
   * **\#afetos\_ao\_vento**​. - _Marina Mapurunga_
   * **Batata Musik -** ​_Pedro Nonino_
+  * **Neurorak** – _Gypsylab8_
 
   \_\_
 

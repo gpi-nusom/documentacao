@@ -30,3 +30,9 @@ Fluxos sanguíneos, caminhos sinuosos do corpo vocal.
 
 Plataforma de síntese interativa aonde vegetais, sensores de luz e outros controladores são utilizados como partes de um sintetizador analógico, que então tem seu som coletado por um computador que processa o som e o projeta em forma de espectrograma em diversos objetos e espelhos.
 
+
+
+## Neurorak – Gypsylab8
+
+### _Performance_
+
