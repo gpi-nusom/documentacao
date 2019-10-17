@@ -1,5 +1,5 @@
 ---
-description: Obras em exibição na Segunda edição da exposição Sons de Silício.
+description: Obras participantes da Segunda edição da exposição Sons de Silício.
 ---
 
 # Obras em exibição
