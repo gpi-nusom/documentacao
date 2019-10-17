@@ -6,6 +6,8 @@ description: Video instalação
 
 ### **Autorxs: Alessandra Bochio e Felipe Merker Castellani**
 
+{% embed url="https://www.youtube.com/watch?v=bRENNVfRgPU" %}
+
 _transduções\_desdobramentos_ é uma obra videográfica que dá continuidade às pesquisas artísticas de Alessandra Bochio e Felipe Merker Castellani, as quais possuem como ponto central as convergências e as inter-relações entre imagem, som e corpo.
 
 O conceito de transdução dá nome ao trabalho, e é entendido enquanto um processo de transformação energética que serve de base para a compreensão de diferentes fenômenos sonoros do mundo físico e para a construção de diferentes aparatos tecnológicos. Transdução energética e tradução informacional interligam-se e servem como ponto de contato entre as materialidades distintas exploradas pelos artistas no fluxo temporal audiovisual.

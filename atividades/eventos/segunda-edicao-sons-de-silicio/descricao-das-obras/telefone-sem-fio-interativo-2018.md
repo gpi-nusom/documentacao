@@ -18,7 +18,9 @@ description: Instalação Interativa
 
 **Câmera:** Davi Geide
 
-Telefone sem fio é uma  instalação que consiste em um vídeo, TELEFONE SEM FIO \(1976\) e uma poltrona interativa que remonta a brincadeira popular, infantil, jogada no Brasil e ao redor do mundo, que consiste em brincar com a sonoridade das palavras.
+![](../../../../.gitbook/assets/telefone_sem_fio_virtual.jpg)
+
+Telefone sem fio é uma  instalação que consiste em um vídeo, TELEFONE SEM FIO \(1976\), e uma poltrona interativa que remonta a brincadeira popular, infantil, jogada no Brasil e ao redor do mundo, que consiste em brincar com a sonoridade das palavras.
 
 Através do vídeo, percebemos que apesar de todas as questões levantadas no tocante à conjuntura política do Brasil de 1976, como a censura à liberdade de expressão e o papel da televisão, existem proposições poéticas associadas à escuta e à voz que nos interessam relacionar com a produção de poesia sonora brasileira contemporânea.
 

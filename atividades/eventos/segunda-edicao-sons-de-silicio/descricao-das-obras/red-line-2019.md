@@ -1,10 +1,12 @@
 ---
-description: Instalação Interativa
+description: Instalação Sonora Interativa
 ---
 
 # Red Line \(2019\)
 
 ### Autores: Fábio Martinelli e Esteban Viveros
+
+![](../../../../.gitbook/assets/red_line.JPG)
 
 Red Line é uma instalação interativa de luz e sons criada a partir da utilização de recursos tecnológicos. São utilizados pontos de lasers que atravessam o espaço em diversas direções formando uma espécie de teia ou emaranhado de linhas luminosas. Os feixes de laser são direcionados à sensores que acionam diferentes sons no exato momento em que a trajetória do laser for interrompida.
 

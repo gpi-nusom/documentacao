@@ -1,10 +1,12 @@
 ---
-description: Instalação Interativa
+description: Instalação Sonora Interativa
 ---
 
 # Constante Elástica \(2018\)
 
 ### Autora: Bella
+
+![](../../../../.gitbook/assets/constante_elastica.jpg)
 
 Constante elástica é uma instalação sonora interativa que propõe ao público-visitante uma relação entre o novelo de arame e o corpo. Fazendo uso de dispositivos que captam as vibrações do material metálico, essa interação é traduzida em som.
 
