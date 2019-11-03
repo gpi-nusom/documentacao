@@ -26,3 +26,11 @@ Para a Mostra Sons de Silício, o trio traz o jogo da livre improvisação music
 
 A proposta buscar explorar performaticamente as sonoridades de utensílios de cozinha processados eletronicamente durante o fazer de uma pipoca. 
 
+
+
+## Corpo Vibrátil - Dan Odan
+
+### _Performance/instalação_
+
+Corpo vibrátil é um trabalho sonoro que convida o público a participar diretamente. A estrutura do trabalho é composta por uma caixa de som suspensa no teto voltada para o chão, deixando um espaço para uma pessoa deitar. A caixa de som está plugada a uma mesa de som conectada a aparelhos eletrônicos que emitem sons e frequências, como celulares e sintetizadores. Os aparelhos são manipulados pelo artista a fim de negociar a frequência e a massa sonora com a pessoa embaixo da caixa, os demais ali presentes e o espaço. Como se o artista estivesse tocando através do som todos estes corpos. As ondas sonoras que saem da caixa de som penetram diretamente na pessoa deitada. Dá-se a imagem que de alguma maneira aquele corpo está passando por uma “cirurgia sonora”, tendo como cúmplice os demais ali presentes.
+

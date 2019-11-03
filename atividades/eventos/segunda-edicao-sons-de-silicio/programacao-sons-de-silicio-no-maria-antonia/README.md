@@ -36,6 +36,7 @@ description: Sons de Silício no Maria Antônia
   * **Trio Mámomã**
   * **Duo Cóz -**​ _Migue Antar e Fabio Manzione_
   * **Popcorn Time -** ​_Fabio Martineli_
+  * **Corpo Vibrátil** - _Dan Odan_
 
   \_\_
 
