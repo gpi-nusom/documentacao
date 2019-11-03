@@ -28,7 +28,7 @@ A proposta buscar explorar performaticamente as sonoridades de utensílios de co
 
 
 
-## Corpo Vibrátil - Dan Odan
+## Corpo Vibrátil - _Dan Odan_
 
 ### _Performance/instalação_
 
