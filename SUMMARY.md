@@ -5,6 +5,8 @@
 ## Atividades
 
 * [Tutoriais](atividades/tutoriais/README.md)
+  * [Pure Data](atividades/tutoriais/pure-data/README.md)
+    * [Instalar Externals no Pd](atividades/tutoriais/pure-data/instalar-externals-no-pd.md)
   * [Raspberry Pi](atividades/tutoriais/raspberry-pi/README.md)
     * [Instalando Raspbian em um cartão microSD](atividades/tutoriais/raspberry-pi/instalando-raspbian-em-um-cartao-microsd.md)
     * [Cirrus Logic Audio Card](atividades/tutoriais/raspberry-pi/cirrus-logic-audio-card.md)
