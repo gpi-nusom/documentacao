@@ -10,9 +10,9 @@ description: O GPI rt
 * [Exposição Sons de Silício de 13 de Setembro a 13 de Dezembro de 2019](https://gpi-nusom.gitbook.io/documentacao/atividades/eventos/segunda-edicao-sons-de-silicio)
 * [Realização da Oficina de Criação de Instrumentos musicais eletrônicos](atividades/eventos/oficinas/primeira-oficina-de-criacao-de-instrumentos-musicais-eletronicos.md)
 
+{% page-ref page="atividades/tutoriais/" %}
+
 {% page-ref page="atividades/eventos/" %}
 
 {% page-ref page="atividades/producao/" %}
-
-{% page-ref page="atividades/tutoriais/" %}
 
