@@ -1,5 +1,5 @@
 ---
-description: O que está acontecendo no GPI agora
+description: O GPI rt
 ---
 
 # Grupo de Práticas Interativas do NuSom
