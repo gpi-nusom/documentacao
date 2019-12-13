@@ -8,5 +8,9 @@ Para instalar externals no Pd basta acessar na barra de menu: _Ajuda -&gt; Procu
 
 Repare que o Pd pergunta onde instalar a biblioteca selecionada. Apenas diga para ele que SIM, o Pd instalará a no local mais apropriado.
 
+Uma vez instalado, você pode ver os objetos instalados na biblioteca indo em: Ajuda -&gt; Navegador. Em Externals você encontrará as bibliotecas externas instaladas, dessa forma você tem acesso a todas as ajudas dos objetos da biblioteca.
 
+
+
+![](https://media.giphy.com/media/KCRlxY6vByftoGzVmV/giphy.gif)
 
