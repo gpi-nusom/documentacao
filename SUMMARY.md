@@ -14,6 +14,8 @@
     * [Fazendo backup do Raspbian](atividades/tutoriais/raspberry-pi/fazendo-backup-do-raspbian.md)
     * [Compilando Pure Data vanilla no RPi](atividades/tutoriais/raspberry-pi/compilando-pure-data-vanilla-no-rpi.md)
 * [Eventos](atividades/eventos/README.md)
+  * [Oficinas](atividades/eventos/oficinas/README.md)
+    * [Primeira Oficina de Criação de Instrumentos musicais eletrônicos](atividades/eventos/oficinas/primeira-oficina-de-criacao-de-instrumentos-musicais-eletronicos.md)
   * [Primeira edição Sons de Silício](atividades/eventos/primeira-edicao-sons-de-silicio.md)
   * [Segunda edição Sons de Silício](atividades/eventos/segunda-edicao-sons-de-silicio/README.md)
     * [Obras em exibição](atividades/eventos/segunda-edicao-sons-de-silicio/descricao-das-obras/README.md)
@@ -49,6 +51,7 @@
 
 ## Quem somos
 
+* [O GPI-NuSom](quem-somos/sobre-gpi.md)
 * [Colaboradores](quem-somos/colaboradores.md)
 * [Parceiros](quem-somos/parceiros.md)
 
