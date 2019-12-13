@@ -1,5 +1,5 @@
 ---
-description: '13/12 - Sexta - 18:00 às 22:00'
+description: '13/12 - Sexta - 19:00 às 22:00'
 ---
 
 # Encerramento e ativação 7
