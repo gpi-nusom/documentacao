@@ -1,7 +1,3 @@
----
-description: O GPI rt
----
-
 # Grupo de Práticas Interativas do NuSom
 
 ## Destaques:
