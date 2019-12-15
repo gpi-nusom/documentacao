@@ -4,3 +4,7 @@ description: Tutoriais referentes ao uso da linguagem de programação Pure Data
 
 # Pure Data
 
+* [Instalar Externals](instalar-externals-no-pd.md)
+
+
+

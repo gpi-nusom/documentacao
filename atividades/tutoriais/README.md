@@ -6,3 +6,9 @@ description: >-
 
 # Tutoriais
 
+{% page-ref page="pure-data/" %}
+
+{% page-ref page="raspberry-pi/" %}
+
+
+
