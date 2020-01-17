@@ -1,8 +1,10 @@
 ---
-description: Obras exibidas da Segunda edição da exposição Sons de Silício.
+description: Obras exibidas na Segunda edição da exposição Sons de Silício.
 ---
 
 # Obras expostas
+
+
 
 {% page-ref page="constante-elastica-2018.md" %}
 
