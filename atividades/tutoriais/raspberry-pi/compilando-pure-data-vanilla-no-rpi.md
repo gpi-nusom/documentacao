@@ -19,24 +19,24 @@ No momento em que este tutorial foi escrito, a versão mais recente do Pure data
 mkdir src && cd src
 ```
 
-**PASSO 3** - Instale as dependências para compilação e baixe o pure data 0.49:
+**PASSO 3** - Instale as dependências para compilação e baixe o pure data 0.50-2:
 
 ```bash
 sudo apt install build-essential autoconf automake libtool gettext git libasound2-dev libjack-jackd2-dev libfftw3-3 libfftw3-dev tcl tk
 ```
 
 ```text
-wget http://msp.ucsd.edu/Software/pd-0.49-0.src.tar.gz
+wget http://msp.ucsd.edu/Software/pd-0.50-2.src.tar.gz
 ```
 
 **PASSO 4** - Descompacte o código fonte baixado e entre no diretório com o código fonte:
 
 ```bash
-tar -xzf pd-0.49-0.src.tar.gz
+tar -xzf pd-0.50-2.src.tar.gz
 ```
 
 ```text
-cd pd-0.49-0
+cd pd-0.50-2
 ```
 
 **PASSO 5** - Configure e compile:
@@ -73,7 +73,7 @@ cd..
 sudo make install
 ```
 
-Toda vez que quiser abrir o pure-data  que você compilou, basta abrir o terminal e digitar: 
+Toda vez que quiser abrir o pure-data  que você compilou, basta abrir o terminal \(Passo 1\) e digitar: 
 
 ```text
 pd
