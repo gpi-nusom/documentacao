@@ -4,6 +4,14 @@
 
 * [Realizada a primeira Oficina de Criação de Instrumentos musicais eletrônicos do GPI](atividades/eventos/oficinas/primeira-oficina-de-criacao-de-instrumentos-musicais-eletronicos.md)
 
+![Oficina realizada nos dias 10 a 12 de dezembro de 2019](.gitbook/assets/whatsapp-image-2019-12-13-at-11.11.47-1.jpeg)
+
+## Atualizações recentes:
+
+* [Tutorial de como compilar o Pd 0.50-2 no Raspberry Pi](atividades/tutoriais/raspberry-pi/compilando-pure-data-vanilla-no-rpi.md)
+
+![](.gitbook/assets/pd-window-rpi.jpeg)
+
 
 
 {% page-ref page="atividades/tutoriais/" %}
