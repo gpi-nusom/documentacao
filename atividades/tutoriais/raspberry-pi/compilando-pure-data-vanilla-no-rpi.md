@@ -8,7 +8,7 @@ description: Neste tutorial iremos compilar o pure-data versão vanilla no Raspb
 
 **Válido para o** [**Rasbian Stretch with Desktop**](https://www.raspberrypi.org/downloads/raspbian/)**.**
 
-No momento em que este tutorial foi escrito, a versão mais recente do Pure data é a 0.49, é a versão que instalaremos com este tutorial.
+No momento em que este tutorial foi escrito, a versão mais recente do Pure data é a 0.50-2, é a versão que instalaremos com este tutorial.
 
 **PASSO 1** - Abra o Terminal: `Ctrl+Alt+T`  
 
