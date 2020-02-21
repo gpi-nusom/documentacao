@@ -14,6 +14,12 @@
 
 
 
+* [Instalar Interface Audio Injector Zero no Raspberry Pi](atividades/tutoriais/raspberry-pi/placa-de-som-audio-injector.md)
+
+![](.gitbook/assets/audio-injector-zero.jpg)
+
+
+
 {% page-ref page="atividades/tutoriais/" %}
 
 {% page-ref page="atividades/eventos/" %}

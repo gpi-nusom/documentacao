@@ -6,11 +6,11 @@ description: Neste tutorial iremos compilar o pure-data versão vanilla no Raspb
 
 
 
-**Válido para o** [**Rasbian Stretch with Desktop**](https://www.raspberrypi.org/downloads/raspbian/)**.**
+**Válido para o** [**Rasbian Buster with Desktop**](https://www.raspberrypi.org/downloads/raspbian/)**.**
 
 No momento em que este tutorial foi escrito, a versão mais recente do Pure data é a 0.50-2, é a versão que instalaremos com este tutorial.
 
-**PASSO 1** - Abra o Terminal: `Ctrl+Alt+T`  
+  
 
 
 **PASSO 2** - Crie um diretório com código fonte e entre nele \(opcional\):
@@ -66,7 +66,7 @@ cd bin
 **PASSO 7** - Se o Pure-data funcionou direitinho, é hora de instalá-lo no sistema:
 
 ```text
-cd..
+cd ..
 ```
 
 ```text
