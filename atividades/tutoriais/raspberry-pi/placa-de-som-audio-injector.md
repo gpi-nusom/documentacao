@@ -6,6 +6,8 @@ description: 'Procedimento para configurar a Interface de Áudio: Audio Injector
 
 [Audio Injector Zero](http://www.audioinjector.net/rpi-zero) é uma interface de áudio projetada para ser utilizada em conjunto com [Raspberry Pi Zero](https://www.raspberrypi.org/products/raspberry-pi-zero/), mas também pode ser utilizada com outros modelos de Raspberry contanto que tenham GPIO de 40 pinos. Aqui no GPI NuSom testamos com sucesso nos [Raspberry Pi 3 B+](https://www.raspberrypi.org/products/raspberry-pi-3-model-b-plus/).
 
+**Válido para o** [**Raspbian Buster with Desktop**](https://www.raspberrypi.org/downloads/raspbian/)**.**
+
 
 
 **PASSO 1** - Abra o Terminal: `Ctrl+Alt+T`
