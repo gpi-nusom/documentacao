@@ -10,8 +10,6 @@ description: 'Procedimento para configurar a Interface de Áudio: Audio Injector
 
 **PASSO 1** - Abra o Terminal: `Ctrl+Alt+T`
 
-
-
 **PASSO 2** - Baixe o pacote de instalação audio.injector.scripts\_0.1-1\_all.deb:
 
 ```text
@@ -34,7 +32,9 @@ audioInjector-setup.sh
 O script irá atualizar o sistema para uso da Interface Audio Injector primeiramente rodando rpi-update, apenas responda y \(yes\) para prosseguir com a instalação. O arquivo /boot/config.txt também será alterado para que a placa seja reconhecida \(dtoverlay=audioinjector-wm8731-audio\).
 {% endhint %}
 
-PASSO 5 - Após finalizada a instalação, desligue e ligue o seu Raspberry Pi com a Interface Audio Injector Zero devidamente conectada para uso.
+**PASSO 5** - Após finalizada a instalação, desligue e ligue o seu Raspberry Pi com a Interface Audio Injector Zero devidamente conectada para uso.
+
+
 
 Agora você já deverá ser capaz de utilizar sua Interface de Áudio. Segundo o suporte com o mesmo procedimento também é possível utilizar a Interface [Audio Injector Stereo](http://www.audioinjector.net/rpi-hat).
 
