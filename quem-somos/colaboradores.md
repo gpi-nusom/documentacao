@@ -10,6 +10,7 @@
 * [Micael Antunes da Silva](http://www2.eca.usp.br/nusom/micael_antunes)
 * [Neila Kadhy](http://lattes.cnpq.br/2217386181517899)
 * [Paulo De Assis](http://www2.eca.usp.br/nusom/paulo_assis)
+* [Pedro Paulo Santos](http://lattes.cnpq.br/2196835963427515)
 * [Vitor Kisil Miskalo](http://www2.eca.usp.br/nusom/vitor_kisil)
 
 
