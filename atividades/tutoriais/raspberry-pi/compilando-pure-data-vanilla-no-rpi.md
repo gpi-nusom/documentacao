@@ -8,7 +8,7 @@ description: Neste tutorial iremos compilar o pure-data versão vanilla no Raspb
 
 **Válido para o** [**Raspbian Buster with Desktop**](https://www.raspberrypi.org/downloads/raspbian/)**.**
 
-No momento em que este tutorial foi escrito, a versão mais recente do Pure data é a 0.50-2, é a versão que instalaremos com este tutorial.
+No momento em que este tutorial foi escrito, a versão mais recente do Pure data é a 0.50-4, é a versão que instalaremos com este tutorial.
 
   
 
@@ -26,17 +26,17 @@ sudo apt install build-essential autoconf automake libtool gettext git libasound
 ```
 
 ```text
-wget http://msp.ucsd.edu/Software/pd-0.50-2.src.tar.gz
+wget http://msp.ucsd.edu/Software/pd-0.50-4.src.tar.gz
 ```
 
 **PASSO 4** - Descompacte o código fonte baixado e entre no diretório com o código fonte:
 
 ```bash
-tar -xzf pd-0.50-2.src.tar.gz
+tar -xzf pd-0.50-4.src.tar.gz
 ```
 
 ```text
-cd pd-0.50-2
+cd pd-0.50-4
 ```
 
 **PASSO 5** - Configure e compile:
