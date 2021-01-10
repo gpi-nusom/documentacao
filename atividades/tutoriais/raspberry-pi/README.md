@@ -4,6 +4,7 @@ description: Tutoriais para projetos com Raspberry Pi
 
 # Raspberry Pi
 
+* [Instalando Interface de Som Audio Injector Zero](placa-de-som-audio-injector.md)
 * [Instalando Raspbian em um cartão microSD](instalando-raspbian-em-um-cartao-microsd.md)
 * [Compilando e instalando a versão mais recente do Pure Data](compilando-pure-data-vanilla-no-rpi.md)
 * [Instalando Purr Data no Raspberry Pi](purr-data-no-raspbian.md)

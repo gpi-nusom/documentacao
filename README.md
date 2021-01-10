@@ -8,7 +8,7 @@
 
 ## Atualizações recentes:
 
-* [Tutorial de como compilar o Pd 0.50-2 no Raspberry Pi](atividades/tutoriais/raspberry-pi/compilando-pure-data-vanilla-no-rpi.md)
+* [Tutorial de como compilar o Pd 0.51-4 no Raspberry Pi](atividades/tutoriais/raspberry-pi/compilando-pure-data-vanilla-no-rpi.md)
 
 ![](.gitbook/assets/pd-window-rpi.jpeg)
 
