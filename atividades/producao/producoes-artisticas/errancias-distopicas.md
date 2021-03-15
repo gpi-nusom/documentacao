@@ -9,12 +9,11 @@ A interação em realidade virtual Errâncias Distópicas é uma navegação aur
 
 Para uma entrar no modo de navegação errante por essas distopias basta clicar em:
 
-[**https://erranciasdistopicas.glitch.me/**](https://erranciasdistopicas.glitch.me/)  
-  
-****
+[**https://erranciasdistopicas.glitch.me/**](https://erranciasdistopicas.glitch.me/)
+
+![](../../../.gitbook/assets/whatsapp-image-2021-03-15-at-15.36.27.jpeg)
 
 Para melhor experiência, recomendamos o uso de fones de ouvido. O Bricolagens Distópicas é melhor visualizado em dispositivos móveis Android com o navegador Google Chrome.  
-  
 ****
 
 [**http://www2.eca.usp.br/orquestraerrante/musica17/**](http://www2.eca.usp.br/orquestraerrante/musica17/)  
