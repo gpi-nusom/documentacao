@@ -4,7 +4,9 @@ description: Instalação Sonora
 
 # Reverberações do Silenciar \(2019\)
 
-### Autores: **GPI - NuSom \(Cristiano Figueiró, Esteban Viveros, Fabio Martinelli, Pedro Paulo Santos, Vitor Kisil\)** 
+### Autores: **GPI - NuSom \(Cristiano Figueiró, Esteban Viveros, Fábio Martinele, Pedro Paulo Santos, Vitor Kisil\)** 
+
+![](../../../../../.gitbook/assets/captura-de-tela-2021-03-15-a-s-15.05.49.png)
 
 "Reverberações do Silenciar" é uma instalação sonora que os membros do GPI desenvolveram especialmente para a exposição Sons de Silício no Centro Universitário Maria Antônia.
 
