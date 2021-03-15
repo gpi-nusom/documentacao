@@ -2,7 +2,7 @@
 description: 'Autores: Esteban Viveros e Felipe Lins'
 ---
 
-# Errâncias Distópicas
+# Errâncias Distópicas \(2020\)
 
 A interação em realidade virtual Errâncias Distópicas é uma navegação aural, via dispositivos móveis, por entre os 176 áudios que serviram de matéria prima bruta para criação colaborativa do que aconteceu em decorrência do ¿Música? \#17.   
 ****

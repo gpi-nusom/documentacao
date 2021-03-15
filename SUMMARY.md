@@ -50,7 +50,7 @@
     * [Buzu \(2019\)](atividades/producao/producoes-artisticas/buzu.md)
     * [Sonhofonias \(2018/19\)](atividades/producao/producoes-artisticas/sonhofonias.md)
     * [Sinfonia Onírica, virtualidades suspensas](atividades/producao/producoes-artisticas/sinfonia-onirica-virtualidades-suspensas.md)
-    * [Errâncias Distópicas](atividades/producao/producoes-artisticas/errancias-distopicas.md)
+    * [Errâncias Distópicas \(2020\)](atividades/producao/producoes-artisticas/errancias-distopicas.md)
 
 ## Quem somos
 
