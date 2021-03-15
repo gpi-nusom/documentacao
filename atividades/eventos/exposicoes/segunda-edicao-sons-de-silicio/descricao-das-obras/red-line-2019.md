@@ -4,7 +4,7 @@ description: Instalação Sonora Interativa
 
 # Red Line \(2019\)
 
-### Autores: Fábio Martinelli e Esteban Viveros
+### Autores: Fábio Martinele e Esteban Viveros
 
 ![](../../../../../.gitbook/assets/red_line.JPG)
 
