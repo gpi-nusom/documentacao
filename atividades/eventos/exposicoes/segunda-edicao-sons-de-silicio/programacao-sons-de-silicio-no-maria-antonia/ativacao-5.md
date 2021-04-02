@@ -12,6 +12,10 @@ Influenciados pelo trabalho desenvolvido em Soothing Sounds for Baby, os composi
 
 O objetivo dos artistas é explorar distintas sonoridades provenientes da investigação das relações entre sons, espaço e ferramentas tecnológicas, visando apresentar uma alternativa de experiência sonora e musical para crianças, público usualmente desconsiderado em apresentações de música eletrônica e experimental.
 
+#### Registro da Performance:
+
+[https://www.vitorkisil.net/2019-m-e-m-e-m](https://www.vitorkisil.net/2019-m-e-m-e-m)
+
 ## **Transformações sonoras no Antropoceno**​ - _Geert Vermeire e Ros Bandt_ 
 
 ### _Soundwalk_
