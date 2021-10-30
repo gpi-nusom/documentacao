@@ -135,8 +135,8 @@ git push origin --delete <nome_antigo>
 	git merge <branch>
 ```
 
-***
+### Links Relacionados:&#x20;
 
-Links Relacionados:&#x20;
-
-https://www.atlassian.com/br/git/tutorials/setting-up-a-repository/git-clone https://rogerdudler.github.io/git-guide/index.pt\_BR.html https://githowto.com/pt-BR/creating\_a\_branch
+* [https://www.atlassian.com/br/git/tutorials/setting-up-a-repository/git-clone ](https://www.atlassian.com/br/git/tutorials/setting-up-a-repository/git-clone)
+* [https://rogerdudler.github.io/git-guide/index.pt\_BR.html](https://rogerdudler.github.io/git-guide/index.pt\_BR.html)
+* [https://githowto.com/pt-BR/creating\_a\_branch](https://githowto.com/pt-BR/creating\_a\_branch)
