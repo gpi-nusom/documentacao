@@ -6,7 +6,7 @@ description: >-
 
 # Fazendo backup do Raspbian
 
-**Fazendo backup do cartão SD no Ubuntu** \(Para outras opções consultar [artigo original](https://www.htpcguides.com/easy-resize-and-back-up-raspberry-pi-sd-card-with-ubuntu/)\)  
+**Fazendo backup do cartão SD no Ubuntu **(Para outras opções consultar [artigo original](https://www.htpcguides.com/easy-resize-and-back-up-raspberry-pi-sd-card-with-ubuntu/))\
 
 
 Neste tutorial será fundamental o uso do Terminal. No Ubuntu desktop, para abrir o Terminal pressione as teclas: `Ctrl+Alt+T`
@@ -30,19 +30,18 @@ deve mostrar algo do tipo:
 
 fique esperto que a sua saída pode ser diferente, o lance é procurar pelo sistema de arquivos que o cartão SD foi criado:
 
-* na linha 3 em verde:
+*   na linha 3 em verde:
 
-  ```text
-  "msdos" e "vfat"
-  ```
+    ```
+    "msdos" e "vfat"
+    ```
+*   na linha 4 em verde:
 
-* na linha 4 em verde:
+    ```
+    "ext4"
+    ```
 
-  ```text
-  "ext4"
-  ```
-
-o dispositivo \(device\) /dev/sdbX, no nosso caso /dev/sdb1 e /dev/sdb2 indicam que o endereço /dev/sdb é o do dispositivo que procuramos.
+o dispositivo (device) /dev/sdbX, no nosso caso /dev/sdb1 e /dev/sdb2 indicam que o endereço /dev/sdb é o do dispositivo que procuramos.
 
 {% hint style="info" %}
 Se inserirmos um novo **pendrive** e/ou **outro dispositivo de armazenamento** qualquer, ele iria adquirir o nome: _/dev/sdc_, _/dev/sdd_ e assim por diante. Supondo que o **outro dispositivo de armazenamento** tenha 3 partições, cada partição seria nomeada como: _/dev/sdd1_, _/dev/sdd2_ e _/dev/sdd3_.
@@ -50,7 +49,7 @@ Se inserirmos um novo **pendrive** e/ou **outro dispositivo de armazenamento** q
 
 
 
-**PASSO 2** - Vamos agora fazer a criação de uma imagem do cartão SD \(backup\):
+**PASSO 2** - Vamos agora fazer a criação de uma imagem do cartão SD (backup):
 
 ```bash
 sudo dd if=/dev/sdb of=/home/meu_usuário/meu_backup_do_raspberrypi.img bs=1M
@@ -60,40 +59,37 @@ sudo dd if=/dev/sdb of=/home/meu_usuário/meu_backup_do_raspberrypi.img bs=1M
 ATENÇÃO
 
 * Repare que após:  _if=_  você deverá substituir o _/dev/sdb_ pelo endereço do dispositivo que você identificou no PASSO 1 deste tutorial.
-* Após: _of=_  , a parte escrita "_meu\_usuário"_  deve ser substituido pelo seu nome de usuário e "_meu\_backup\_do\_raspberrypi_" pelo nome que vc escolher para sua imagem.
+* Após: _of=_  , a parte escrita "_meu\_usuário" _ deve ser substituido pelo seu nome de usuário e "_meu\_backup\_do\_raspberrypi_" pelo nome que vc escolher para sua imagem.
 {% endhint %}
 
 
 
-**PASSO 3** - Instalar o [PiShrink](https://github.com/Drewsif/PiShrink) \(Se já tiver instalado o PiShrink, pode pular pro PASSO 4\)
+**PASSO 3** - Instalar o [PiShrink](https://github.com/Drewsif/PiShrink) (Se já tiver instalado o PiShrink, pode pular pro PASSO 4)
 
-* Baixar o PiShrink. No terminal escreva: 
+*   Baixar o PiShrink. No terminal escreva:&#x20;
 
-  ```bash
-  wget https://raw.githubusercontent.com/Drewsif/PiShrink/master/pishrink.sh
-  ```
+    ```bash
+    wget https://raw.githubusercontent.com/Drewsif/PiShrink/master/pishrink.sh
+    ```
+*   Dê os privilégios necessários ao funcionamento do script baixado:
 
-* Dê os privilégios necessários ao funcionamento do script baixado:
+    ```bash
+    chmod +x pishrink.sh
+    ```
+*   Agora copiaremos o script do PiShrink para um diretório onde poderá ser executado sem problemas:
 
-  ```bash
-  chmod +x pishrink.sh
-  ```
-
-* Agora copiaremos o script do PiShrink para um diretório onde poderá ser executado sem problemas:
-
-  ```bash
-  sudo mv pishrink.sh /usr/local/bin 
-  ```
+    ```bash
+    sudo mv pishrink.sh /usr/local/bin 
+    ```
 
 
 
 **PASSO 4** - Comprimir imagem extraída do SD:
 
-```text
+```
 sudo pishrink.sh meu_backup_do_raspberrypi.img meu_backup_do_raspberrypi_comprimido.img
 ```
 
 
 
 Pronto! Agora você deverá ter uma imagem funcional do seu Raspbian. Mas antes de confiar, desconfie... Teste a sua imagem para conferir se ela realmente funciona.
-

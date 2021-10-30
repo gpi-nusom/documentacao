@@ -1,10 +1,10 @@
 ---
-description: '18/10 - Sexta - 19:00 às 22:00'
+description: 18/10 - Sexta - 19:00 às 22:00
 ---
 
 # Ativação 3
 
-## **Veia**​ - _Inés Terra e Esteban Viveros_
+## **Veia**​ -_ Inés Terra e Esteban Viveros_
 
 ### _Performance_
 
@@ -12,11 +12,11 @@ Fluxos sanguíneos, caminhos sinuosos do corpo vocal.
 
 {% embed url="https://www.youtube.com/watch?v=RMp-6nGRHSI" %}
 
-## **\#afetos\_ao\_vento**​. - _Marina Mapurunga_
+## **#afetos\_ao\_vento**​. - _Marina Mapurunga_
 
 ### _Performance Audiovisual_
 
-![](../../../../../.gitbook/assets/afetos_ao_vento.png)
+![](../../../../../.gitbook/assets/afetos\_ao\_vento.png)
 
 ### Links:
 
@@ -35,4 +35,3 @@ Plataforma de síntese interativa aonde vegetais, sensores de luz e outros contr
 ## Neurorak – Gypsylab8
 
 ### _Performance_
-
